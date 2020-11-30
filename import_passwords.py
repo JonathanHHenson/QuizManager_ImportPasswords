@@ -1,6 +1,5 @@
 import mysql.connector
 import pandas
-import numpy as np
 import config as cfg
 import sys
 
